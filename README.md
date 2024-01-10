@@ -2,7 +2,7 @@
 
 I'm Ashish, a first-year college student diving into the world of coding and tech at Bennett University. 🚀 Currently exploring the exciting realms of computer science and eager to turn ideas into code.
 
-📚 Studying B.Tech Computer Science, I'm passionate about Web and App Development. My coding journey began with Java, and I'm now venturing into c++.
+📚 Studying B.Tech Computer Science, I'm passionate about Web and App Development. My coding journey began with Java.
 
 🛠️ I may be new to the coding scene, but I love the challenge of problem-solving and the creativity that comes with building something from scratch.
 
