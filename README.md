@@ -24,7 +24,7 @@ I'm Ashish, a first-year college student diving into the world of coding and tec
 <p align="left">
 <a href="https://twitter.com/ashishkbaberwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashishbaberwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashishbaberwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashishbaberwal" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishbaberwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishbaberwal" height="30" width="40" /></a>
+<a href="https://instagram.com/whoiz.aashish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishbaberwal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
