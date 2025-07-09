@@ -32,7 +32,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and cloud enth
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,bash,cloudflare,cpp,css,googleanalytics,github,git,figma,expressjs,docker,html,javascript,leetcode,python,nextjs,mysql,mongodb,mongoose,react,solidity,tailwindcss,vite,typescript" />
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=aws,bash,cloudflare,cpp,css,googleanalytics,github,git,figma,expressjs,docker,html,javascript" /> <br>
+    <img src="https://skill-icons-v2.vercel.app/api/icons?i=leetcode,python,nextjs,mysql,mongodb,mongoose,react,solidity,tailwindcss,vite,typescript" />
 </p>
 
 <h3 align="left">Support:</h3>
