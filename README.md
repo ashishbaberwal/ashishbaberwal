@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and cloud enth
 
 ### 🌟 About Me
 
-- 🌱 I’m currently enhancing my skills in **Web - Dev** and **DSA**.
-- 👯 I’m looking to collaborate on **C++**, and **Web - Dev** projects.
+- 🌱 I’m currently enhancing my skills in **Web - Dev**.
+- 👯 I’m looking to collaborate on **Web - Dev** projects.
 - 💬 Ask me about **C++**, **JavaScript**, **AWS**, **Docker**, **Neovim** and **Web - Dev**.
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/ashishbaberwal) | [Email](mailto:ashishkbaberwal@gmail.com)
 
